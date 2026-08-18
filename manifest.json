@@ -56,14 +56,14 @@
   ],
   "screenshots": [
     {
-      "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/desktop-preview.png",
+      "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/pc-iew.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide",
       "label": "Maha Vastu Mandal Desktop View"
     },
     {
-      "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/mobile-preview.png",
+      "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/mobile-view.png",
       "sizes": "750x1334",
       "type": "image/png",
       "form_factor": "narrow",
