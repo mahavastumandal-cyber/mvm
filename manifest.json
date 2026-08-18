@@ -11,7 +11,7 @@
   "theme_color": "#750a0a",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBokoAVrt2w-mZ7lPvk4bhCsZzOVdwjUs49a98aOX-BR2GlgYpMZGp-IjMz1XDa0pwLspH3r6Q8Mn5dxShXPwwiq5f-0kpX7htzNuYrY7_cyWgGAifwa69KKS-kfPWcpMCQsHBb26JMzQMenUW-O5dB87P_DIDJV53gAGtm26gOxatNA/s1600/image1786804500",
+      "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/42239a6e96f9be887891c5207b46d64eb9970a1f/apple-touch-icon.png",
       "type": "image/png",
       "sizes": "512x512",
       "isSquare": true,
@@ -24,7 +24,7 @@
       "is192x192": false
     },
     {
-      "src": "https://mahavastumandal.blogspot.com/favicon.ico",
+      "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/42239a6e96f9be887891c5207b46d64eb9970a1f/favicon.ico",
       "type": "image/x-icon",
       "isSquare": false,
       "isPng": false,
