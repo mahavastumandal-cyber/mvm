@@ -69,5 +69,13 @@
       "form_factor": "narrow",
       "label": "Maha Vastu Mandal Mobile View"
     }
+  ],
+  "lang": "hi",
+  "display_override": [
+    "fullscreen",
+    "standalone",
+    "minimal-ui",
+    "browser",
+    "window-controls-overlay"
   ]
 }
