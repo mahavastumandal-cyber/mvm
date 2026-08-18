@@ -1,63 +1,49 @@
 {
-  "background_color": "#fbf6e5",
-  "description": "16 दिशाओं और पंचतत्व संतुलन पर आधारित वैज्ञानिक महावास्तु। बिना तोड़-फोड़ पाएं धन, व्यापार, स्वास्थ्य व करियर के अचूक उपाय। लाइव शक्ति चक्र व रूम एनालाइजर।",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "Maha Vastu Mandal",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "Maha Vastu Mandal",
+  "description": "16 दिशाओं और पंचतत्व संतुलन पर आधारित वैज्ञानिक महावास्तु। बिना तोड़-फोड़ पाएं धन, व्यापार, स्वास्थ्य व करियर के अचूक उपाय। लाइव शक्ति चक्र व रूम एनालाइजर।",
   "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "dir": "ltr",
+  "background_color": "#fbf6e5",
   "theme_color": "#750a0a",
-  "icons": [
-    {
-      "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/42239a6e96f9be887891c5207b46d64eb9970a1f/apple-touch-icon.png",
-      "type": "image/png",
-      "sizes": "512x512",
-      "isSquare": true,
-      "isPng": true,
-      "isWebp": false,
-      "isJpg": false,
-      "width": 512,
-      "is512x512": true,
-      "is256x256": false,
-      "is192x192": false
-    },
-    {
-      "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/42239a6e96f9be887891c5207b46d64eb9970a1f/favicon.ico",
-      "type": "image/x-icon",
-      "isSquare": false,
-      "isPng": false,
-      "isWebp": false,
-      "isJpg": false,
-      "width": 0,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
-    },
-    {
-      "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/42239a6e96f9be887891c5207b46d64eb9970a1f/apple-touch-icon.png",
-      "sizes": "180x180",
-      "type": "image/png"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/42239a6e96f9be887891c5207b46d64eb9970a1f/favicon-96x96.png",
-      "sizes": "96x96",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ],
   "categories": [
     "design",
     "lifestyle",
     "navigation",
     "social",
     "utilities"
+  ],
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48 32x32 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }
