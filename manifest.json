@@ -17,6 +17,12 @@
     "utilities"
   ],
   "icons": [
+        {
+      "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon",
+      "purpose": "any"
+    },
     {
       "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/apple-touch-icon.png",
       "sizes": "180x180",
