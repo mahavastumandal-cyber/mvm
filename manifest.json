@@ -33,6 +33,12 @@
     "social",
     "utilities"
   ],
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/manifest.json"
+    }
+  ],
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/apple-touch-icon.png",
