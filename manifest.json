@@ -62,7 +62,7 @@
       "purpose": "any"
     },
     {
-      "src": "https://raw.3.usercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-512x512.png",
+      "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
