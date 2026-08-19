@@ -1,21 +1,33 @@
 {
-  "id": "/",
+  "id": "mvm",
   "name": "Maha Vastu Mandal",
   "short_name": "Maha Vastu Mandal",
   "description": "16 दिशाओं और पंचतत्व संतुलन पर आधारित वैज्ञानिक महावास्तु। बिना तोड़-फोड़ पाएं धन, व्यापार, स्वास्थ्य व करियर के अचूक उपाय। लाइव शक्ति चक्र व रूम एनालाइजर।",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "https://mahavastumandal.blogspot.com/",
+  "scope": "https://mahavastumandal.blogspot.com/",
   "display": "standalone",
+  "display_override": ["tabbed"],
+  "tab_strip": {
+    "new_tab_button": {
+      "url": "/"
+    }
+  },
   "orientation": "any",
-  "dir": "ltr",
+  "dir": "auto",
   "background_color": "#fbf6e5",
   "theme_color": "#750a0a",
+  "lang": "hi-IN",
   "categories": [
     "design",
     "lifestyle",
     "navigation",
     "social",
     "utilities"
+  ],
+  "related_applications": [{
+      "platform": "webapp",
+      "url": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/manifest.json"
+    }
   ],
   "icons": [
         {
@@ -71,12 +83,45 @@
       "label": "Maha Vastu Mandal Mobile View"
     }
   ],
-  "lang": "hi",
   "display_override": [
     "fullscreen",
     "standalone",
     "minimal-ui",
     "browser",
     "window-controls-overlay"
+  ],
+    "edge_side_panel": {
+    "preferred_width": 400
+  },
+  "iarc_rating_id": "news",
+  "shortcuts": [
+    {
+      "name": "About Us",
+	  "short_name": "About Us",
+      "url": "https://www.janrajnews.com/p/about-us.html",
+      "description": "About Us",
+	  "icons": [{ "src": "https://raw.githubusercontent.com/janrajnewsmedia/JRNM/refs/heads/main/appImages/android/android-launchericon-192-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Contact Us",
+	  "short_name": "Contact Us",
+      "url": "https://www.janrajnews.com/p/contact-us.html",
+      "description": "Contact Us",
+	  "icons": [{ "src": "https://raw.githubusercontent.com/janrajnewsmedia/JRNM/refs/heads/main/appImages/android/android-launchericon-192-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Policy Privacy",
+	  "short_name": "Policy Privacy",
+      "url": "https://www.janrajnews.com/p/privacy-policy.html",
+      "description": "Policy Privacy",
+	  "icons": [{ "src": "https://raw.githubusercontent.com/janrajnewsmedia/JRNM/refs/heads/main/appImages/android/android-launchericon-192-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Terms Conditions",
+	  "short_name": "Terms Conditions",
+      "url": "https://www.janrajnews.com/p/term-conditions.html",
+      "description": "Terms Conditions",
+	  "icons": [{ "src": "https://raw.githubusercontent.com/janrajnewsmedia/JRNM/refs/heads/main/appImages/android/android-launchericon-192-192.png", "sizes": "192x192" }]
+    }
   ]
 }
