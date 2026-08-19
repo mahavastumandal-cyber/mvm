@@ -100,28 +100,28 @@
 	  "short_name": "About Us",
       "url": "https://www.janrajnews.com/p/about-us.html",
       "description": "About Us",
-	  "icons": [{ "src": "https://raw.githubusercontent.com/janrajnewsmedia/JRNM/refs/heads/main/appImages/android/android-launchericon-192-192.png", "sizes": "192x192" }]
+	  "icons": [{ "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png", "sizes": "192x192" }]
     },
     {
       "name": "Contact Us",
 	  "short_name": "Contact Us",
       "url": "https://www.janrajnews.com/p/contact-us.html",
       "description": "Contact Us",
-	  "icons": [{ "src": "https://raw.githubusercontent.com/janrajnewsmedia/JRNM/refs/heads/main/appImages/android/android-launchericon-192-192.png", "sizes": "192x192" }]
+	  "icons": [{ "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png", "sizes": "192x192" }]
     },
     {
       "name": "Policy Privacy",
 	  "short_name": "Policy Privacy",
       "url": "https://www.janrajnews.com/p/privacy-policy.html",
       "description": "Policy Privacy",
-	  "icons": [{ "src": "https://raw.githubusercontent.com/janrajnewsmedia/JRNM/refs/heads/main/appImages/android/android-launchericon-192-192.png", "sizes": "192x192" }]
+	  "icons": [{ "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png", "sizes": "192x192" }]
     },
     {
       "name": "Terms Conditions",
 	  "short_name": "Terms Conditions",
       "url": "https://www.janrajnews.com/p/term-conditions.html",
       "description": "Terms Conditions",
-	  "icons": [{ "src": "https://raw.githubusercontent.com/janrajnewsmedia/JRNM/refs/heads/main/appImages/android/android-launchericon-192-192.png", "sizes": "192x192" }]
+	  "icons": [{ "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png", "sizes": "192x192" }]
     }
   ]
 }
