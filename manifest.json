@@ -6,6 +6,15 @@
   "start_url": "https://mahavastumandal.blogspot.com/",
   "scope": "https://mahavastumandal.blogspot.com/",
   "display": "standalone",
+  "launch_handler": {
+    "client_mode": "auto"
+  },
+  "protocol_handlers": [
+    {
+      "protocol": "web+chat",
+      "url": "/chat?link=%s"
+    }
+  ],
   "display_override": [
     "window-controls-overlay",
     "fullscreen",
