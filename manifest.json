@@ -3,15 +3,15 @@
   "name": "Maha Vastu Mandal",
   "short_name": "Maha Vastu Mandal",
   "description": "16 दिशाओं और पंचतत्व संतुलन पर आधारित वैज्ञानिक महावास्तु। बिना तोड़-फोड़ पाएं धन, व्यापार, स्वास्थ्य व करियर के अचूक उपाय। लाइव शक्ति चक्र व रूम एनालाइजर।",
-  "start_url": "https://mahavastumandal.blogspot.com/",
-  "scope": "https://mahavastumandal.blogspot.com/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "display_override": ["tabbed"],
-  "tab_strip": {
-    "new_tab_button": {
-      "url": "/"
-    }
-  },
+  "display_override": [
+    "window-controls-overlay",
+    "fullscreen",
+    "standalone",
+    "minimal-ui"
+  ],
   "orientation": "any",
   "dir": "auto",
   "background_color": "#fbf6e5",
@@ -24,13 +24,14 @@
     "social",
     "utilities"
   ],
-  "related_applications": [{
+  "related_applications": [
+    {
       "platform": "webapp",
       "url": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/manifest.json"
     }
   ],
   "icons": [
-        {
+    {
       "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/favicon.ico",
       "sizes": "48x48",
       "type": "image/x-icon",
@@ -61,7 +62,7 @@
       "purpose": "any"
     },
     {
-      "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-512x512.png",
+      "src": "https://raw.3.usercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -83,52 +84,70 @@
       "label": "Maha Vastu Mandal Mobile View"
     }
   ],
-  "display_override": [
-    "fullscreen",
-    "standalone",
-    "minimal-ui",
-    "browser",
-    "window-controls-overlay"
-  ],
-    "edge_side_panel": {
+  "edge_side_panel": {
     "preferred_width": 400
   },
   "iarc_rating_id": "news",
   "shortcuts": [
     {
       "name": "About Us",
-	  "short_name": "About Us",
-      "url": "https://mahavastumandal.blogspot.com/p/about-us.html",
+      "short_name": "About Us",
+      "url": "/p/about-us.html",
       "description": "About Us",
-	  "icons": [{ "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png", "sizes": "192x192" }]
+      "icons": [
+        {
+          "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
     },
     {
       "name": "Contact Us",
-	  "short_name": "Contact Us",
-      "url": "https://mahavastumandal.blogspot.com/p/contact-us.html",
+      "short_name": "Contact Us",
+      "url": "/p/contact-us.html",
       "description": "Contact Us",
-	  "icons": [{ "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png", "sizes": "192x192" }]
+      "icons": [
+        {
+          "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
     },
     {
       "name": "Policy Privacy",
-	  "short_name": "Policy Privacy",
-      "url": "https://mahavastumandal.blogspot.com/p/privacy-policy.html",
+      "short_name": "Policy Privacy",
+      "url": "/p/privacy-policy.html",
       "description": "Policy Privacy",
-	  "icons": [{ "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png", "sizes": "192x192" }]
+      "icons": [
+        {
+          "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
     },
     {
       "name": "Terms Conditions",
-	  "short_name": "Terms Conditions",
-      "url": "https://mahavastumandal.blogspot.com/p/terms-conditions.html",
+      "short_name": "Terms Conditions",
+      "url": "/p/terms-conditions.html",
       "description": "Terms Conditions",
-	  "icons": [{ "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png", "sizes": "192x192" }]
+      "icons": [
+        {
+          "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
     },
-	  {
+    {
       "name": "Disclaimer",
-	  "short_name": "Disclaimer",
-      "url": "https://mahavastumandal.blogspot.com/p/disclaimer.html",
+      "short_name": "Disclaimer",
+      "url": "/p/disclaimer.html",
       "description": "Disclaimer",
-	  "icons": [{ "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png", "sizes": "192x192" }]
+      "icons": [
+        {
+          "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
     }
   ]
 }
