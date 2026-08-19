@@ -12,7 +12,7 @@
   "protocol_handlers": [
     {
       "protocol": "web+chat",
-      "url": "/chat?link=%s"
+      "url": "https://mahavastumandal.blogspot.com/p/contact-us.html?link=%s"
     }
   ],
   "display_override": [
@@ -96,65 +96,56 @@
   "edge_side_panel": {
     "preferred_width": 400
   },
-  "iarc_rating_id": "mvm01091982",
   "shortcuts": [
     {
       "name": "About Us",
       "short_name": "About Us",
-      "url": "/p/about-us.html",
+      "url": "https://mahavastumandal.blogspot.com/p/about-us.html",
       "description": "About Us",
       "icons": [
         {
           "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png",
-          "sizes": "192x192"
+          "sizes": "192x192",
+          "type": "image/png"
         }
       ]
     },
     {
       "name": "Contact Us",
       "short_name": "Contact Us",
-      "url": "/p/contact-us.html",
+      "url": "https://mahavastumandal.blogspot.com/p/contact-us.html",
       "description": "Contact Us",
       "icons": [
         {
           "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png",
-          "sizes": "192x192"
+          "sizes": "192x192",
+          "type": "image/png"
         }
       ]
     },
     {
-      "name": "Policy Privacy",
-      "short_name": "Policy Privacy",
-      "url": "/p/privacy-policy.html",
+      "name": "Privacy Policy",
+      "short_name": "Privacy Policy",
+      "url": "https://mahavastumandal.blogspot.com/p/privacy-policy.html",
       "description": "Policy Privacy",
       "icons": [
         {
           "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png",
-          "sizes": "192x192"
+          "sizes": "192x192",
+          "type": "image/png"
         }
       ]
     },
     {
       "name": "Terms Conditions",
       "short_name": "Terms Conditions",
-      "url": "/p/terms-conditions.html",
+      "url": "https://mahavastumandal.blogspot.com/p/terms-conditions.html",
       "description": "Terms Conditions",
       "icons": [
         {
           "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "Disclaimer",
-      "short_name": "Disclaimer",
-      "url": "/p/disclaimer.html",
-      "description": "Disclaimer",
-      "icons": [
-        {
-          "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/web-app-manifest-192x192.png",
-          "sizes": "192x192"
+          "sizes": "192x192",
+          "type": "image/png"
         }
       ]
     }
