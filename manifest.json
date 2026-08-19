@@ -79,6 +79,13 @@
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Maha Vastu Mandal Mobile View"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/mahavastumandal-cyber/mvm/refs/heads/main/mobile-view1.png",
+      "sizes": "750x1340",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Maha Vastu Mandal Mobile View"
     }
   ],
   "edge_side_panel": {
