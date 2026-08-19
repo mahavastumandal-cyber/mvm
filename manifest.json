@@ -3,8 +3,8 @@
   "name": "Maha Vastu Mandal",
   "short_name": "Maha Vastu Mandal",
   "description": "16 दिशाओं और पंचतत्व संतुलन पर आधारित वैज्ञानिक महावास्तु। बिना तोड़-फोड़ पाएं धन, व्यापार, स्वास्थ्य व करियर के अचूक उपाय। लाइव शक्ति चक्र व रूम एनालाइजर।",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "https://mahavastumandal.blogspot.com/",
+  "scope": "https://mahavastumandal.blogspot.com/",
   "display": "standalone",
   "display_override": [
     "window-controls-overlay",
